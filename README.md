@@ -9,3 +9,5 @@
 ## 3D Model
 ![egls_3D](https://github.com/user-attachments/assets/1cfba9c1-3251-43fa-a6b1-84ae7358ca82)
 
+## Block Diagram
+![egls_block_diagram](https://github.com/user-attachments/assets/018d0436-2379-4241-9ad4-deb016a28a33)
