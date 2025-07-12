@@ -11,3 +11,6 @@
 
 ## Block Diagram
 ![egls_block_diagram](https://github.com/user-attachments/assets/018d0436-2379-4241-9ad4-deb016a28a33)
+
+## Fabricated PCB
+<img width="285" height="199" alt="2025-07-12 181559" src="https://github.com/user-attachments/assets/95523e21-1975-4e39-83f4-9e980b7b3d9b" />
